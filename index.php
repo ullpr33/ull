@@ -1,4 +1,10 @@
-<?php require_once('koneksi.php'); ?>
+<?php 
+
+require 'config/koneksi.php'; 
+require "config/constant.php";
+include 'components/header.php';
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,7 +48,6 @@
     <header>
         <h1>COUPLE PHOTOSHOOT</h1>
     </header>
-    <?php include_once('header.php'); ?>
     <div class="container">
         <h2>Welcome to Couple Photoshoot</h2>
         <p>

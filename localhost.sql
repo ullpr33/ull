@@ -20,9 +20,6 @@ SET time_zone = "+00:00";
 --
 -- Database: `id22217870_photoshoot_booking`
 --
-CREATE DATABASE IF NOT EXISTS `id22217870_photoshoot_booking` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
-USE `id22217870_photoshoot_booking`;
-
 -- --------------------------------------------------------
 
 --
